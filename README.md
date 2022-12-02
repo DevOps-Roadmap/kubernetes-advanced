@@ -12,3 +12,9 @@ Please each video's description for the discussed topics.
 Please watch this youtube course to understand Monitoring and Logging in GKE => https://youtube.com/playlist?list=PLYnjQ0KlnryqDDkf8vPHsd53Homaaihhs
 
 Please each video's description for the discussed topics.
+
+
+## Kubernetes Advanced Topics
+
+Kubernetes Architecture => https://youtu.be/UExnXC5p2eM
+Kubernetes Best Practices => https://youtu.be/l0VlHq7K__E
